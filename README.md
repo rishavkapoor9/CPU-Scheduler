@@ -13,7 +13,7 @@ To run the Process Scheduler on your local machine, follow these steps:
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aanchal2707/ACM.git
+   git clone https://github.com/rishavkapoor9/CPU-Scheduler
    cd ACM
    ```
 
